@@ -110,7 +110,7 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=s20026352&cover_image=true&theme=default" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=s20026352&cover_image=true&theme=default&bar_color_cover=false" /></div>  
 
 <br/>  
 
