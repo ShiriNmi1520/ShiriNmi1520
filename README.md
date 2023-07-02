@@ -9,13 +9,13 @@
 - 🔭 I’m currently working on [Brilltek](https://brilltek.com.tw/)  
   
 
-- 🌱 I’m currently learning Express and React Native  
+- 🌱 I’m currently learning Cybersecurity and trying get certificated📜  
   
 
-- ❓ Ask me about anything related to express.js and technologies  
+- ❓ Ask me about anything related to Kubernetes  
   
 
-- ⚡ Fun fact: I'm almost broke🥳  
+- ⚡ Fun fact: I'm not that broke now🥳  
   
 
 <br/>  
@@ -69,6 +69,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
 </div>
 
 </td></tr></table>  
