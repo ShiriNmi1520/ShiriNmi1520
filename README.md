@@ -6,10 +6,10 @@
 ### <div align="center">I'm YuChe, a full-time JavaScript backend developer 👨‍💻 started since 2021 🚀</div>  
   
 
-- 🔭 I’m currently working on [Brilltek](https://brilltek.com.tw/)  
+- 🔭 I’m currently unemployed
   
 
-- 🌱 I’m currently learning Cybersecurity and trying get certificated📜  
+- 🌱 I’m currently learning Cybersecurity and trying to get certificated📜  
   
 
 - ❓ Ask me about anything related to Kubernetes  
