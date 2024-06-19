@@ -6,7 +6,7 @@
 ### <div align="center">I'm YuChe, a full-time JavaScript backend developer 👨‍💻 started since 2021 🚀</div>  
   
 
-- 🔭 I’m currently unemployed
+- 🔭 I’m currently working as DevOps engineer @ [Aile](https://www.aile.cloud)
   
 
 - 🌱 I’m currently learning Cybersecurity and trying to get certificated📜  
