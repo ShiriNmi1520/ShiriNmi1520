@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm YuChe, a full-time JavaScript backend developer 👨‍💻 started since 2021 🚀</div>  
+### <div align="center">I'm YuChe, a full-time DevOps engineer 👨‍💻 started since 2021 🚀</div>  
   
 
 - 🔭 I’m currently working as DevOps engineer @ [Aile](https://www.aile.cloud)
