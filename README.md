@@ -6,13 +6,13 @@
 ### <div align="center">I'm YuChe, a full-time DevOps engineer 👨‍💻 started since 2021 🚀</div>  
   
 
-- 🔭 I’m currently working as DevOps engineer @ [Aile](https://www.aile.cloud)
+- 🔭 I’m currently working as a DevOps engineer @ RiverSense
   
 
 - 🌱 I’m currently learning Cybersecurity and trying to get certificated📜  
   
 
-- ❓ Ask me about anything related to Kubernetes  
+- ❓ Ask me about anything related to Automation and Kubernetes  
   
 
 - ⚡ Fun fact: I'm not that broke now🥳  
